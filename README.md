@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ec3b1feff5674f38894f11d3fdf7e47a)](https://app.codacy.com/app/tbola45/php-resque?utm_source=github.com&utm_medium=referral&utm_content=TalentInc/php-resque&utm_campaign=Badge_Grade_Settings)
 php-resque: PHP Resque Worker (and Enqueue) [![Build Status](https://secure.travis-ci.org/chrisboulton/php-resque.png)](http://travis-ci.org/chrisboulton/php-resque)
 ===========================================
 
